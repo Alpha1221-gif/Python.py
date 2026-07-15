@@ -6,3 +6,4 @@ Lists are ordered, mutable, and can contain elements of different types.'''
 x = [1,2,89,43,100,345]
 y = ["a","b","apple","mango"]
 z = [23,45,"iron man","tiger",True]
+#In this way you can store the values of different types in one listS 
