@@ -21,4 +21,4 @@ Basic operations we can do on a stack are:
 depth-first search in graphs, or for backtracking.
 >Stacks are often mentioned together with Queues, which is a similar data structure described on the next page.'''
 
-         #In STACK to push the data we use PUSH command and POP command to delete the data both are done with <TOP ELEMENT OR VALUE> #
+         #In STACK to push the data we use PUSH command and POP command to delete the data both are done with <TOP ELEMENT OR AT LAST INDEX> #
